@@ -1,3 +1,3 @@
 # practicadeRepositorio
-Barreto Cristobal,Mayumy
+crear un repositorio 
 
