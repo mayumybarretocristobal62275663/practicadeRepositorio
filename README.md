@@ -1,2 +1,4 @@
 # practicadeRepositorio
-practica de crear un repositorio 
+Barreto Cristobal,Mayumy
+ARQUITECTURA DE PLATAFORMAS 
+IDEX PASCO
